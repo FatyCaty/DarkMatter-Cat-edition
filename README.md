@@ -2,7 +2,7 @@
 Dark Matter but Catified
 > This is a remake of the original Dark Matter theme by [cosmicsalad](http://github.com/cosmicsalad/) (AKA Hammock).
 
-![Preview](https://i.imgur.com/xSG96qa.png)
+![Preview](https://i.imgur.com/8V4fUw4.png)
 
 ## Credits
 * Hammock for making the original theme.
